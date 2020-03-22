@@ -3,7 +3,7 @@ spring:
     driver-class-name: com.mysql.jdbc.Driver
     url: jdbc:mysql://localhost:3306/toptalk
     username: root
-    password: 123456
+    password: lu123456
     type: com.alibaba.druid.pool.DruidDataSource
   jpa:
     hibernate:
